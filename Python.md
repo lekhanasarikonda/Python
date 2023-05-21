@@ -14,6 +14,8 @@ syntax:
 1. Why python?
 >> Python is easy to learn 
 >> It is powerful programming language
+
+
 >> It is possible to create the programs with minimal amount of code
 >> Python is versatile language which has many applications in almost every field
    . Artificial intelligence
