@@ -20,4 +20,4 @@ syntax:
    . Game development 
    . Backened development 
 >>> Hello world program:
-![Alt text](Screenshot_1.png)
+![Screenshot_1](https://github.com/lekhanasarikonda/Python/assets/134198650/39e542fa-bf88-4e63-9242-238d6a117c95)
