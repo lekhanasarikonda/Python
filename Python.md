@@ -1,27 +1,29 @@
-Python Invented by "Guido van Russum"
+Python Invented by "Guido van Russum".
 
 Software :
- >> S/w is a set of instructions to hardware
+ >> S/w is a set of instructions to hardware.
 
 Programming :
  >>Writing the instructions to create a s/w.
 
 Code:
->> The instructions that we write to create a s/w
+>> The instructions that we write to create a s/w.
 
 syntax:
  >> Rules of language.
 1. Why python?
->> Python is easy to learn 
+>> Python is easy to learn .
 
 
->> It is a powerful programming language
+>> It is a powerful programming language.
 
 
->> It is possible to create the programs with minimal amount of code
+>> It is possible to create the programs with minimal amount of code.
 
 
->> Python is versatile language which has many applications in almost every field
+>> Python is versatile language which has many applications in almost every field.
+
+
    . Artificial intelligence
    
    . Machine learning
