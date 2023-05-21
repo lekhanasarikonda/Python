@@ -18,11 +18,19 @@ syntax:
 
 >> Python is versatile language which has many applications in almost every field
    . Artificial intelligence
+   
    . Machine learning
+   
    . Cyber security 
+   
    . Big data 
+   
    . Iot/Smart devices 
+   
    . Game development 
+   
    . Backened development 
+   
 >>> Hello world program:
+>>> 
 ![Screenshot_1](https://github.com/lekhanasarikonda/Python/assets/134198650/39e542fa-bf88-4e63-9242-238d6a117c95)
