@@ -107,6 +107,8 @@ Value in variable:
 
 ![Screenshot_9](https://github.com/lekhanasarikonda/Python/assets/134198650/b2ba3ead-384b-4ec6-9151-87da6d263d54)
 
+![Screenshot_10](https://github.com/lekhanasarikonda/Python/assets/134198650/9097b0c5-e8ae-407b-b07f-3ea426eb88da)
+
 
 
 
