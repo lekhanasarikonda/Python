@@ -121,6 +121,20 @@ operators-+,*,/
 
 ![Screenshot_11](https://github.com/lekhanasarikonda/Python/assets/134198650/a74cb0fa-6d46-4c23-8bad-a1ebc895018d)
 
+Order of operations:
+
+B -> ()
+O -> Root
+D -> /
+M -> *
+A -> +
+S -> -
+>>Ex: 5*2+3*4=10+12=>22
+use braces for better readability
+(5*2)+(3*4)
+
+![Screenshot_12](https://github.com/lekhanasarikonda/Python/assets/134198650/464c5712-4943-4ede-99d8-dac69c744221)
+
 
 
 
