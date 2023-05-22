@@ -56,4 +56,18 @@ Data types:
  >>int,float,string,boolean.
  
  >>data type determines how the value or data can be used in the program.
+
+String:
+
+>>string is a stream of characters enclosed within the quotes.stream of characters consists of capital letters,small letters,space,special characters,digits.
+
+Ex:"Hello World","1234"
+
+Float: 24.3,345.10
+
+Integers:-3,-2,-1,0,1,2,3.
+
+Boolean: Yes or No,True or False,0 or 1,On or Off.
+
+Assigning values to the variables:
  
