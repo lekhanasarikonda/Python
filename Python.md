@@ -41,3 +41,14 @@ syntax:
 >>> Hello world program:
 >>> 
 ![Screenshot_1](https://github.com/lekhanasarikonda/Python/assets/134198650/39e542fa-bf88-4e63-9242-238d6a117c95)
+
+VARIABLES AND DATA TYPES:
+>>variables are like containers for storing the values.
+>>values in the variables can be changed.
+value:
+>>In the context of programming the info is often referred to as value
+Data types:
+ >>In programming language every value or data has an associated type it is known as data type.
+ >>int,float,string,boolean.
+ >>data type determines how the value or data can be used in the program.
+ 
