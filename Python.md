@@ -44,11 +44,16 @@ syntax:
 
 VARIABLES AND DATA TYPES:
 >>variables are like containers for storing the values.
+
 >>values in the variables can be changed.
+
 value:
 >>In the context of programming the info is often referred to as value
+
 Data types:
  >>In programming language every value or data has an associated type it is known as data type.
+ 
  >>int,float,string,boolean.
+ 
  >>data type determines how the value or data can be used in the program.
  
