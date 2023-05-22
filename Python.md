@@ -95,7 +95,7 @@ Common mistakes:
 
 Variable Assignment:
 
-![Screenshot_6](https://github.com/lekhanasarikonda/Python/assets/134198650/314e7cca-45b8-4b5f-949b-7f168106948e
+![Screenshot_6](https://github.com/lekhanasarikonda/Python/assets/134198650/0006d87f-07fa-458e-982c-e00b46a73fb5)
 
 
 
