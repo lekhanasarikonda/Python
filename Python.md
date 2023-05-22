@@ -85,6 +85,10 @@ Common mistakes:
 
 ![Screenshot_3](https://github.com/lekhanasarikonda/Python/assets/134198650/f75e79af-9cfd-4f81-a1ef-54398825bacd)
 
+2)Order of instructions
+
+![Screenshot_4](https://github.com/lekhanasarikonda/Python/assets/134198650/6de00180-8c49-4f5a-adee-cac0fac62fec)
+
 
 
 
