@@ -70,4 +70,13 @@ Integers:-3,-2,-1,0,1,2,3.
 Boolean: Yes or No,True or False,0 or 1,On or Off.
 
 Assigning values to the variables:
+
+>>       variable name<-age=10->variable value and here = is Assignment operator.
+
+Sequence of Instructions:
+
+>>python executes the code line by line.
+
+![Screenshot_2](https://github.com/lekhanasarikonda/Python/assets/134198650/3b25b42d-ba8f-47ed-8a7f-01bf8c6b1ac1
+
  
