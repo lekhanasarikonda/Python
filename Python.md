@@ -101,7 +101,9 @@ Variable Assignment:
 
 >>Because of the change in the sequence program behavior is changed.
 
+Value in variable:
 
+![Screenshot_8](https://github.com/lekhanasarikonda/Python/assets/134198650/ad740bb0-acd9-4557-ab01-9a067ce89c01)
 
 
 
