@@ -77,6 +77,6 @@ Sequence of Instructions:
 
 >>python executes the code line by line.
 
-
+![Screenshot_2](https://github.com/lekhanasarikonda/Python/assets/134198650/89872d0d-7581-4313-8a09-0a5a42bb19da)
 
  
