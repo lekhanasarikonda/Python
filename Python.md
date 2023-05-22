@@ -109,6 +109,16 @@ Value in variable:
 
 ![Screenshot_10](https://github.com/lekhanasarikonda/Python/assets/134198650/9097b0c5-e8ae-407b-b07f-3ea426eb88da)
 
+Expressions in python:
+
+>>Expression is a valid combination of value,variables,operators.
+
+values-2,5,int,float
+
+variables-a,b,c
+
+operators-+,*,/
+
 
 
 
