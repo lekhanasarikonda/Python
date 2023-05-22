@@ -59,7 +59,7 @@ Data types:
 
 String:
 
->>string is a stream of characters enclosed within the quotes.stream of characters consists of capital letters,small letters,space,special characters,digits.
+>>string is a stream of characters enclosed within the quotes. stream of characters consists of capital letters,small letters,space,special characters,digits.
 
 Ex:"Hello World","1234"
 
