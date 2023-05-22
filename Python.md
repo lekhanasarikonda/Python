@@ -79,9 +79,11 @@ Sequence of Instructions:
 
 ![Screenshot_2](https://github.com/lekhanasarikonda/Python/assets/134198650/89872d0d-7581-4313-8a09-0a5a42bb19da)
 
+Common mistakes:
 
+1)printing values in variables
 
-
+![Screenshot_3](https://github.com/lekhanasarikonda/Python/assets/134198650/4ff31237-42a3-4b63-b1a7-5dc8135
 
 
 
