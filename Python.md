@@ -89,11 +89,9 @@ Common mistakes:
 
 ![Screenshot_4](https://github.com/lekhanasarikonda/Python/assets/134198650/6de00180-8c49-4f5a-adee-cac0fac62fec)
 
+3)spacing in python:
 
-
-
-
-
+![Screenshot_5](https://github.com/lekhanasarikonda/Python/assets/134198650/d83cc00f-97bf-4693-a2be-1298fd02ea76)
 
 
 
