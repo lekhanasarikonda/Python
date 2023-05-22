@@ -129,7 +129,7 @@ D -> /
 M -> *
 A -> +
 S -> -
->>Ex: 5*2+3*4=10+12=>22
+>>Ex: 5 * 2 + 3 * 4 = 10 + 12 => 22
 use braces for better readability
 (5*2)+(3*4)
 
