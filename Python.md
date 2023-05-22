@@ -83,7 +83,8 @@ Common mistakes:
 
 1)printing values in variables
 
-![Screenshot_3](https://github.com/lekhanasarikonda/Python/assets/134198650/4ff31237-42a3-4b63-b1a7-5dc8135
+
+![Screenshot_3](https://github.com/lekhanasarikonda/Python/assets/134198650/ad54c01e-2e59-4ddd-ae72-ba6d37da51ba
 
 
 
