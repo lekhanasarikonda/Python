@@ -93,6 +93,9 @@ Common mistakes:
 
 ![Screenshot_5](https://github.com/lekhanasarikonda/Python/assets/134198650/d83cc00f-97bf-4693-a2be-1298fd02ea76)
 
+Variable Assignment:
+
+![Screenshot_6](https://github.com/lekhanasarikonda/Python/assets/134198650/314e7cca-45b8-4b5f-949b-7f168106948e
 
 
 
