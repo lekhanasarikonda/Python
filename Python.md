@@ -131,7 +131,7 @@ A -> +
 S -> -
 >>Ex: 5 * 2 + 3 * 4 = 10 + 12 => 22
 use braces for better readability
-(5*2)+(3*4)
+(5 * 2)+(3 * 4)
 
 ![Screenshot_12](https://github.com/lekhanasarikonda/Python/assets/134198650/464c5712-4943-4ede-99d8-dac69c744221)
 
