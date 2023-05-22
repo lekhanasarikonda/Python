@@ -97,6 +97,10 @@ Variable Assignment:
 
 ![Screenshot_6](https://github.com/lekhanasarikonda/Python/assets/134198650/0006d87f-07fa-458e-982c-e00b46a73fb5)
 
+![Screenshot_7](https://github.com/lekhanasarikonda/Python/assets/134198650/0661e3d8-cf59-417e-b448-6885c53dc93b)
+
+
+
 
 
 
