@@ -151,6 +151,10 @@ In string concatenation we used 2 strings.
 
 ![Screenshot_17](https://github.com/lekhanasarikonda/Python/assets/134198650/a25a7bc3-2277-4490-baed-3125129f1e2d)
 
+>>>if we want to get stars * 10 times then we can write the code as
+
+![Screenshot_18](https://github.com/lekhanasarikonda/Python/assets/134198650/1cc95342-ed40-4089-b242-d8d0b9df8292)
+
 
 
 
