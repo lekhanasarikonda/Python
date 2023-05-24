@@ -165,6 +165,15 @@ Length of a String:
 
 ![Screenshot_20](https://github.com/lekhanasarikonda/Python/assets/134198650/3b280492-f101-4af3-9052-1e49af8c8cb5)
 
+>>Space is also a character.
+
+>>Take input from the user input(). Allows flexibility to take the input from the user.
+
+![Screenshot_21](https://github.com/lekhanasarikonda/Python/assets/134198650/430f1046-4a62-4af2-a5ea-b0cb8ea3062b)
+
+
+
+
 
 
 
