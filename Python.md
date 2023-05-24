@@ -155,6 +155,11 @@ In string concatenation we used 2 strings.
 
 ![Screenshot_18](https://github.com/lekhanasarikonda/Python/assets/134198650/1cc95342-ed40-4089-b242-d8d0b9df8292)
 
+string will be repeated to times is called as string repetition.
+
+Length of a String:
+
+![Screenshot_19](https://github.com/lekhanasarikonda/Python/assets/134198650/3302a4ac-8c4a-45a6-9934-a94c7f5c398c)
 
 
 
