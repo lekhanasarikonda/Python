@@ -143,6 +143,7 @@ Input and Output Basics:
 
 ![Screenshot_14](https://github.com/lekhanasarikonda/Python/assets/134198650/58eb956a-e986-4172-bab4-861356ff59ce)
 
+![Screenshot_15](https://github.com/lekhanasarikonda/Python/assets/134198650/8b816822-4213-4cd4-b8d8-ffe8c1c1919e)
 
 
 
