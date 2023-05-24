@@ -137,6 +137,13 @@ use braces for better readability
 
 ![Screenshot_13](https://github.com/lekhanasarikonda/Python/assets/134198650/41deeddf-2f4c-421f-a6e5-592ec6d5793e)
 
+Input and Output Basics:
+
+1)Adding strings: Adding strings is called as string concatenation.
+
+![Screenshot_14](https://github.com/lekhanasarikonda/Python/assets/134198650/58eb956a-e986-4172-bab4-861356ff59ce)
+
+
 
 
 
