@@ -161,7 +161,9 @@ Length of a String:
 
 ![Screenshot_19](https://github.com/lekhanasarikonda/Python/assets/134198650/3302a4ac-8c4a-45a6-9934-a94c7f5c398c)
 
+>>Length returns the number of characters in the given string.
 
+![Screenshot_20](https://github.com/lekhanasarikonda/Python/assets/134198650/a7a1befa-b3ee-4377-95ad-53c579e1aa9
 
 
 
