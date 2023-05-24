@@ -163,7 +163,7 @@ Length of a String:
 
 >>Length returns the number of characters in the given string.
 
-![Screenshot_20](https://github.com/lekhanasarikonda/Python/assets/134198650/a7a1befa-b3ee-4377-95ad-53c579e1aa9
+![Screenshot_20](https://github.com/lekhanasarikonda/Python/assets/134198650/3b280492-f101-4af3-9052-1e49af8c8cb5)
 
 
 
