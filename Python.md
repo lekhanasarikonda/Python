@@ -149,6 +149,10 @@ In string concatenation we used 2 strings.
 
 ![Screenshot_16](https://github.com/lekhanasarikonda/Python/assets/134198650/df79ca4b-f46f-4cd4-b6ed-01ceb6d85a79)
 
+![Screenshot_17](https://github.com/lekhanasarikonda/Python/assets/134198650/a25a7bc3-2277-4490-baed-3125129f1e2d)
+
+
+
 
 
 
