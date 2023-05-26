@@ -173,6 +173,12 @@ Length of a String:
 
 ![Screenshot_22](https://github.com/lekhanasarikonda/Python/assets/134198650/4e077eaa-bc3f-4867-807b-0f7ae5ebf0ed)
 
+Accessing characters in string:
+
+![Screenshot_23](https://github.com/lekhanasarikonda/Python/assets/134198650/2aba53d9-fb4a-438b-9b86-b6aafde01840)
+
+![Screenshot_24](https://github.com/lekhanasarikonda/Python/assets/134198650/010b4fab-d734-4ffa-ba3e-ae6e010823c2)
+
 
 
 
