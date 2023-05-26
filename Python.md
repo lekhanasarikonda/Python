@@ -171,7 +171,7 @@ Length of a String:
 
 ![Screenshot_21](https://github.com/lekhanasarikonda/Python/assets/134198650/430f1046-4a62-4af2-a5ea-b0cb8ea3062b)
 
-
+![Screenshot_22](https://github.com/lekhanasarikonda/Python/assets/134198650/4e077eaa-bc3f-4867-807b-0f7ae5ebf0ed)
 
 
 
