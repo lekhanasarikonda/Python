@@ -177,6 +177,12 @@ Accessing characters in string:
 
 ![Screenshot_23](https://github.com/lekhanasarikonda/Python/assets/134198650/2aba53d9-fb4a-438b-9b86-b6aafde01840)
 
+![Screenshot_25](https://github.com/lekhanasarikonda/Python/assets/134198650/10d986eb-d402-467a-8cfb-689d3b5d044d)
+
+![Screenshot_26](https://github.com/lekhanasarikonda/Python/assets/134198650/d1adb920-b534-41a6-a560-e5f3a0aec414)
+
+
+
 
 
 
