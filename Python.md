@@ -39,8 +39,9 @@ syntax:
    . Backened development 
    
 >>> Hello world program:
->>> 
-![Screenshot_1](https://github.com/lekhanasarikonda/Python/assets/134198650/39e542fa-bf88-4e63-9242-238d6a117c95)
+
+
+![Screenshot_27](https://github.com/lekhanasarikonda/Python/assets/134198650/9c2147ea-6444-49e0-8469-03c72486f87c)
 
 VARIABLES AND DATA TYPES:
 >>variables are like containers for storing the values.
